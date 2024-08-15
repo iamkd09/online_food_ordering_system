@@ -24,10 +24,3 @@ The Online Food Ordering System is a web application built using Core PHP and My
 
 - PHP >= 7.0
 - MySQL
-
-### Steps
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/online-food-ordering-system.git
